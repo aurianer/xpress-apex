@@ -387,6 +387,7 @@ add_hpx_library(apex
     hpx_errors
     hpx_functional
     hpx_hardware
+    hpx_threading
     hpx_timing
     hpx_topology
   FOLDER "Core/Dependencies")
