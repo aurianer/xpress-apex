@@ -382,6 +382,7 @@ add_hpx_library(apex
   DEPENDENCIES
     hpx_assertion
     hpx_cache
+    hpx_concurrency
     hpx_config
     hpx_errors
     hpx_hardware
