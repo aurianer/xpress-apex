@@ -385,6 +385,7 @@ add_hpx_library(apex
     hpx_concurrency
     hpx_config
     hpx_errors
+    hpx_functional
     hpx_hardware
     hpx_timing
     hpx_topology
