@@ -63,7 +63,7 @@
 #include <hpx/include/performance_counters.hpp>
 #include <hpx/include/actions.hpp>
 #include <hpx/include/util.hpp>
-#include <hpx/local_lcos/composable_guard.hpp>
+#include <hpx/lcos_local.hpp>
 #include "global_constructor_destructor.h"
 #endif // APEX_HAVE_HPX
 
